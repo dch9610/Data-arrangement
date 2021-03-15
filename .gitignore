@@ -5,6 +5,12 @@ __pycache__/
 *.csv
 *.xlsx
 *.xls
+*.pickle
+*.pkl
+*.dat
+*.txt
+*.tsv
+.DS_Store
 
 # C extensions
 *.so
