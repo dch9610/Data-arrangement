@@ -11,6 +11,8 @@ __pycache__/
 *.txt
 *.tsv
 .DS_Store
+*.jpg
+data
 
 # C extensions
 *.so
